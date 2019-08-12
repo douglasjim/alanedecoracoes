@@ -1,0 +1,44 @@
+p {font-weight: 600;}
+
+
+#sobebtn{
+	
+}
+#redondo{
+	position: absolute;
+	top: 1215px;
+	right: 47%;
+}
+
+.whats{
+	position: absolute;
+	left: 170px;
+	top: 2748px;
+}
+.email{
+	position: absolute;
+	left: 170px;
+	top: 2785px;	
+}
+.sobe{
+	position: absolute;
+	left: 47%;
+	top: 2400px;	
+}
+
+.info{
+	position: absolute;
+	left: 340px;
+	top: 1685px;
+}
+.parallax-container{
+      height: 500px;
+ }
+
+.container h5 {
+    font-size: 20px;
+    font-family: "Crimson Text","Times New Roman",serif;
+    color: red;
+}
+
+ /*com for css*/
