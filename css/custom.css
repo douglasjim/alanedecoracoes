@@ -1,0 +1,61 @@
+
+.navbar-logo{ 
+  height: 55px;
+}
+#cubo2{
+	font-size: 20px;
+}
+
+#segundafoto{
+	max-width: 89.7%;
+}
+#borda{
+	margin-top: 30px;
+	border: 3px solid black;
+	padding: 30px;
+}
+.borda2{
+	border: 2px solid black;
+}
+.distante{
+	padding-bottom: 90px;
+	font-size: 18px;
+}
+.distante2{
+	padding-bottom: 25px;
+	font-size: 18px;
+}
+#quartafoto{
+	max-width: 77%;
+}
+#quintafoto{
+	max-width: 90%;
+}
+#sextafoto{
+	max-width: 80%;
+}
+#setimafoto{
+	max-width: 90%;
+}
+#oitavafoto{
+	max-height: 50%;
+}
+#nonafoto{
+	max-height: 90%;
+}
+#decimafoto{
+	max-height: 600px;
+	isolation: 
+}
+#decimapfoto{
+	max-height: 50%;
+}
+
+
+
+
+
+
+
+
+
