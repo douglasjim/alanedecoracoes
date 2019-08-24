@@ -6,17 +6,23 @@
 	font-size: 20px;
 }
 
-#segundafoto{
-	max-width: 89.7%;
-}
 #borda{
 	margin-top: 30px;
 	border: 3px solid black;
 	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
 }
-.borda2{
-	border: 2px solid black;
+
+img {
+  width: 80px; /* controla o tamanho da imagem do cabecario  */
+  height: 90px; /* controla tamanho das imagens da galeria  */
+  object-fit: cover; /* para alterar o tamanho das iamgens e manter responsivas */
+  /*  https://www.w3schools.com/css/css3_object-fit.asp */
 }
+
 .distante{
 	padding-bottom: 90px;
 	font-size: 18px;
@@ -25,31 +31,34 @@
 	padding-bottom: 25px;
 	font-size: 18px;
 }
-#quartafoto{
-	max-width: 77%;
+.obrigado{
+	padding-bottom: 20px;
+	padding-top: 20px;
+
 }
-#quintafoto{
-	max-width: 90%;
+
+.borda2{
+	border: 2px solid black;
 }
-#sextafoto{
-	max-width: 80%;
+
+
+
+
+
+
+
+
+
+
+
+
+/* min-width & max-width */
+/*  @media screen and (min-width: 10px) and (max-width: 900px) {
+	.galeria img{
+		background-color: black;
+	}
 }
-#setimafoto{
-	max-width: 90%;
-}
-#oitavafoto{
-	max-height: 50%;
-}
-#nonafoto{
-	max-height: 90%;
-}
-#decimafoto{
-	max-height: 600px;
-	isolation: 
-}
-#decimapfoto{
-	max-height: 50%;
-}
+*/
 
 
 
